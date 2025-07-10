@@ -1,7 +1,7 @@
 # etl-volumetria-pyspark-parquet
 
 **Pipeline ETL modular em PySpark para processar grandes volumes de dados**  
-Leitura de CSV, transformação de dados, particionamento e escrita em Parquet com boas práticas de engenharia.
+geração de dados sinteticos, transformação de dados, particionamento e escrita em Parquet com boas práticas de engenharia de dados.
 
 ---
 
