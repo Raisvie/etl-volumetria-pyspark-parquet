@@ -4,7 +4,7 @@ import pandas as pd
 import random
 
 fake = Faker()
-#padronização de dados para testes futuros
+#padronização de dados para testes futuros padrão 42 de aleatorios
 #random.seed(42)
 
 data_gerados = []
